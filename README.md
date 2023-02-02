@@ -16,3 +16,5 @@ The models presented in this project are:
 - LSTM vanilla;
 - LSTM with improvements proposed by the paper [Regularizing and Optimizing LSTM Language Models](https://arxiv.org/abs/1708.02182);
 - GPT-2 provided by [Hugging Face](https://huggingface.co/docs/transformers/model_doc/gpt2), specifically zero-shot analysis and finetuning on PTB dataset.
+
+At this link are available the weights of the models: https://drive.google.com/drive/folders/159Rtz603byQKyNomoKQnxVtbCfX0cpfZ?usp=sharing
